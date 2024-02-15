@@ -10,16 +10,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C%20Sharp&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/JAVA-FF0000?style=for-the-badge&logoColor=white"/></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring%20boot&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/></a>
 </p>
 
 <p align="center">
@@ -30,7 +27,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=Github%20Actions&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/></a>
 </p>
