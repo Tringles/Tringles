@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://blog.naver.com/jjmjm2002"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/jjmjm2002"/></a>
-  <a href="https://tringles.notion.site/_Resume-c9eef5017cc849308329907596bc14b1"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://tringles.notion.site/_Resume-c9eef5017cc849308329907596bc14b1"/></a>
-  <a href="https://tringles.notion.site/_Portfolio-5b9f7d02568b43d895070dce23a63c4b"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://tringles.notion.site/_Portfolio-5b9f7d02568b43d895070dce23a63c4b"/></a>
+<!--   <a href="https://tringles.notion.site/_Resume-c9eef5017cc849308329907596bc14b1"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://tringles.notion.site/_Resume-c9eef5017cc849308329907596bc14b1"/></a> -->
+<!--   <a href="https://tringles.notion.site/_Portfolio-5b9f7d02568b43d895070dce23a63c4b"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://tringles.notion.site/_Portfolio-5b9f7d02568b43d895070dce23a63c4b"/></a> -->
 </p>
 
 <br><br>
@@ -27,8 +27,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=Github%20Actions&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/></a>
+<!--   <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=Github%20Actions&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/></a> -->
 </p>
 
 <p align="center">
